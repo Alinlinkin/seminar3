@@ -8,6 +8,25 @@
 
 ## Проверка состояния репозитория
 
+    git status
+
 ## Добавление версионности
 
+    git add git commit -a
+
 ## Фиксация изменений
+
+    git commit 
+    git commit -m ""
+    git commit -am ""
+## 
+
+    git diff
+
+## 
+
+    git log
+
+##
+
+    git checkout 
